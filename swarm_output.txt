@@ -1,0 +1,10 @@
+ID             NAME                  IMAGE                  NODE             DESIRED STATE   CURRENT STATE                    ERROR     PORTS
+tbrugxerybo8   text_analysis.1       text_analysis:latest   docker-desktop   Running         Running less than a second ago             
+s8aluhrvxkag    \_ text_analysis.1   text_analysis:latest   docker-desktop   Shutdown        Complete 5 seconds ago                     
+ylixh2zhgvlv    \_ text_analysis.1   text_analysis:latest   docker-desktop   Shutdown        Complete 11 seconds ago                    
+s3p99qq8ph3d    \_ text_analysis.1   text_analysis:latest   docker-desktop   Shutdown        Complete 17 seconds ago                    
+nvfcwla5i5ge    \_ text_analysis.1   text_analysis:latest   docker-desktop   Shutdown        Complete 23 seconds ago                    
+616b8fgch03a   text_analysis.2       text_analysis:latest   docker-desktop   Shutdown        Complete 4 minutes ago                     
+2cnsx3nrvj7a    \_ text_analysis.2   text_analysis:latest   docker-desktop   Shutdown        Complete 4 minutes ago                     
+yj3ub2af2a05    \_ text_analysis.2   text_analysis:latest   docker-desktop   Shutdown        Complete 4 minutes ago                     
+672ao5crh5wj    \_ text_analysis.2   text_analysis:latest   docker-desktop   Shutdown        Complete 4 minutes ago                     
